@@ -1,0 +1,4 @@
+'kwlist-construct-correct', (0, 66)
+'kwlist-add-correct', (512, 66)
+'kwlist-get-correct', (1024, 66)
+'prune-expr-correct', (1536, 66)
